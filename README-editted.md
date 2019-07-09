@@ -5,4 +5,5 @@ Feeling excited about learning something new.
 
 Also sad about not using my traditional user name-(skull0412).
 
-This is my first non master branch..... :)
+Now something about me:-
+I am machine learning enthusiast. I like deep learning part in it the most...
